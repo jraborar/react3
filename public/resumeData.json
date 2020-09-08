@@ -66,15 +66,15 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "25"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "25%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "25"
       },
       {
         "name": "Figma && Adobe XD",
@@ -82,11 +82,11 @@
       },
       {
         "name": "HTML5",
-        "level": "80%"
+        "level": "30%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "WordPress",
+        "level": "50%"
       }
     ]
   },
